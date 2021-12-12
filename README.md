@@ -23,7 +23,7 @@ C:\Users\0x19231\Documents\Data> cd C:\Users\0x19231\Documents\Data\Info.txt
 	
 	Languages i know (about code) : Java,Python,CSS,C#,C++
 	Languages i speak : Ukrainian, Russian, English, A lil French
- Age : 14 years old
-	Hobby : Coding, Social Engineering,
+  Age : 14 years old
+	Hobby : Coding, Social Engineering
 	
 	
